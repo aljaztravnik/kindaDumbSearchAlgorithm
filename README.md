@@ -1,0 +1,2 @@
+# kindaDumbSearchAlgorithm
+Yes.
